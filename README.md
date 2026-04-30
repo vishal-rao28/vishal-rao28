@@ -87,7 +87,7 @@
   <a href="https://linkedin.com/in/vishal-rao-173a232b9?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/badge/kaushal__maran-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/badge/vishal-rao28?logo=discord&logoColor=white&style=for-the-badge" height="25"/>
   <a href="mailto:vishalrao5432@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25"/>
   </a>
