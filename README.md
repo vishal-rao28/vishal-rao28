@@ -1,7 +1,7 @@
 <br clear="both">
  
 <h1 align="center">
-  Hey 😉 !!! Its Me Kaushal Maran!! What's Up?
+  Hey 😉 !!! Its Me Vishal Rao!! What's Up?
   <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif" width="35px" />
 </h1>
 
@@ -84,14 +84,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaushal-maran-m-9572622b1?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://linkedin.com/in/vishal-rao-173a232b9?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/badge/kaushal__maran-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="25"/>
-  <a href="mailto:kaushalmaran@gmail.com">
+  <a href="mailto:vishalrao5432@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://www.instagram.com/kaushal__maran?igsh=ZWNzMGk5cGJoZWZ5" target="_blank">
+  <a href="https://www.instagram.com/_f.r.e.a.k.y.vr_?igsh=bzg5dnJ3YnNua2Vz&utm_source=qr" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25"/>
 </a>
 </div>
@@ -99,22 +99,22 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushalboii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-rao28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=kaushalboii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaushalboii/kaushalboii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaushalboii/kaushalboii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaushalboii/kaushalboii/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-rao28/vishal-rao28/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal-rao28/vishal-rao28/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishal-rao28/vishal-rao28/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kaushalboii.kaushalboii&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishal-rao28.vishal-rao28&"  />
 </div>
 
 <div align="center">
