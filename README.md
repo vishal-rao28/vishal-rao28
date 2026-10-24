@@ -81,9 +81,9 @@ final class PlayerOne: iOSLegend {
 | Gear Tier | Weapon Class | Equipped Items |
 | :---: | :--- | :--- |
 | **S+** | **🗡️ Primary Blades (Languages)** | <img src="https://skillicons.dev/icons?i=swift,dart,py,bash" alt="Languages" /> |
-| **S** | **🛡️ Armor & Engines (Mobile Ecosystem)** | <img src="https://skillicons.dev/icons?i=apple,flutter,xcode,vscode" alt="Mobile Ecosystem" /> |
-| **A** | **🧪 Potions & Spells (Cloud & DevOps)** | <img src="https://skillicons.dev/icons?i=firebase,gcp,docker,git" alt="Cloud & DevOps" /> |
-| **A** | **🎒 Adventurer's Kit (Design & Suite)** | <img src="https://skillicons.dev/icons?i=github,figma,canva,chrome" alt="Design & Suite" /> |
+| **S** | **🛡️ Armor & Engines (Mobile Ecosystem)** | <img src="https://skillicons.dev/icons?i=apple,flutter,sqlite,postman" alt="Mobile Ecosystem" /> |
+| **A** | **🧪 Potions & Spells (Cloud & Backend)** | <img src="https://skillicons.dev/icons?i=firebase,gcp,docker,linux" alt="Cloud & Backend" /> |
+| **A** | **🎒 Adventurer's Kit (Dev Tools & Design)** | <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" alt="Dev Tools & Design" /> |
 
 </div>
 
