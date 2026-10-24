@@ -1,89 +1,112 @@
-<br clear="both">
- 
-<h1 align="center">
-  Hey 😉 !!! Its Me Vishal Rao!! What's Up?
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif" width="35px" />
-</h1>
-
-###
- 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60" alt="xcode logo"  />
-</div>
+  <!-- Dynamic Hero Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=180&section=header&text=Vishal%20Rao&fontSize=42&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20iOS%20%26%20Flutter%20Enthusiast&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
 
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/vishal-rao-173a232b9?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <!-- Animated Typing Headline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=45&lines=Crafting+Sleek+Mobile+Experiences+%F0%9F%93%B1;iOS+%26+Flutter+Developer+%E2%9A%A1;Passionate+Problem+Solver+%F0%9F%9A%80;Exploring+Cloud+%26+DevOps+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
-  <img src="https://img.shields.io/badge/vishal-rao28?logo=discord&logoColor=white&style=for-the-badge" height="25"/>
-  <a href="mailto:vishalrao5432@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://www.instagram.com/_f.r.e.a.k.y.vr_?igsh=bzg5dnJ3YnNua2Vz&utm_source=qr" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25"/>
-</a>
+
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/vishal-rao-173a232b9" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:vishalrao5432@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://discord.com" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=vishal-rao28" alt="Discord Badge"/>
+    </a>
+    <a href="https://www.instagram.com/_f.r.e.a.k.y.vr_" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </p>
 </div>
 
-###
+---
+
+### 👨‍💻 About Me
+
+```yaml
+name: Vishal Rao
+role: Mobile Application Developer & Software Engineer
+passions: [iOS Development, Flutter Ecosystem, Clean Code Architecture]
+currently_learning: [Advanced SwiftUI, Cloud Infrastructure & CI/CD]
+motto: "Turning complex ideas into smooth, intuitive mobile experiences."
+```
+
+- 🔭 **Working on:** High-performance native iOS and cross-platform Flutter applications.
+- 💡 **Core Interests:** Mobile UI/UX design patterns, reactive programming, and API integration.
+- 🚀 **Goals:** Building scalable apps that deliver exceptional real-world user value.
+- ⚡ **Fun Fact:** When not writing code, you'll find me experimenting with new UI designs and dev tools!
+
+---
+
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-rao28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vishal-rao28&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+#### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,dart,py,bash" alt="Languages" />
+</p>
+
+#### 📱 Mobile & Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,flutter" alt="Mobile Development" />
+</p>
+
+#### ☁️ Cloud, Backend & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,docker" alt="Cloud and DevOps" />
+</p>
+
+#### 🔧 Tools, Platforms & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=xcode,vscode,git,github,figma,canva" alt="Tools & Design" />
+</p>
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-rao28/vishal-rao28/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal-rao28/vishal-rao28/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishal-rao28/vishal-rao28/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishal-rao28.vishal-rao28&"  />
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=vishal-rao28&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=true" alt="Vishal's GitHub Stats" height="165" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-rao28&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" alt="Top Languages" height="165" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=vishal-rao28&theme=tokyonight&hide_border=false&border_radius=8" alt="Streak Stats" />
 </div>
+
+---
+
+### 🎮 Contribution Journey
 
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-  <img width="20"/>
-  <img height="180" src="https://i.imgflip.com/65efzo.gif"/>
-  <img width="20"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-rao28/vishal-rao28/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal-rao28/vishal-rao28/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/vishal-rao28/vishal-rao28/output/pacman-contribution-graph.svg" width="100%" />
+  </picture>
 </div>
 
-###
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishal-rao28.vishal-rao28&left_color=gray&right_color=blue" alt="Visitor Count" />
+  <br /><br />
+  <sub>✨ Designed with care by <b>Vishal Rao</b>. Thanks for stopping by! ✨</sub>
+</div>
+
