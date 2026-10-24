@@ -1,25 +1,34 @@
 <div align="center">
-  <!-- Gamified Retro Arcade Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=VISHAL%20RAO%20%F0%9F%8E%AE&fontSize=46&fontAlignY=36&desc=%E2%96%B6%20PRESS%20START%20%E2%80%A2%20LVL%2099%20iOS%20%26%20MOBILE%20ARCHITECT&descAlignY=58&descSize=16&animation=twinkling" width="100%" alt="Arcade Header" />
+  <!-- Custom Cyberpunk Arcade iOS Banner -->
+  <a href="https://vishalrao-portfolio.netlify.app/" target="_blank">
+    <img src="./banner.png" alt="Vishal Rao - iOS & Mobile Architect" width="100%" />
+  </a>
+
+  <br/><br/>
 
   <!-- 8-Bit Retro Pixel Font Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=45&lines=PLAYER+1+READY:+VISHAL+RAO+%F0%9F%93%B1;EQUIPPED:+SWIFTUI+%26+XCODE+16+%E2%9A%94%EF%B8%8F;CURRENT+QUEST:+CORE-CARE+HEALTH+RAID+%F0%9F%A7%A0;ULTIMATE:+ZERO+WARNINGS+AT+120+FPS+%E2%9A%A1;PRESS+[START]+TO+JOIN+PARTY+%E2%9C%A8" alt="8-Bit Arcade Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=35&lines=LEVEL+99:+iOS+%26+MOBILE+ARCHITECT+%F0%9F%93%B1;EQUIPPED:+SWIFTUI+%26+XCODE+16+%E2%9A%94%EF%B8%8F;CURRENT+QUEST:+CORE-CARE+HEALTH+RAID+%F0%9F%A7%A0;ULTIMATE:+ZERO+WARNINGS+AT+120+FPS+%E2%9A%A1;PRESS+[START]+TO+JOIN+PARTY+%E2%9C%A8" alt="8-Bit Arcade Typing Headline" />
   </a>
+
+  <br/>
 
   <!-- Multiplayer Party / Guild Links -->
   <p align="center">
+    <a href="https://vishalrao-portfolio.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-090d16?style=for-the-badge&logo=safari&logoColor=38bdf8" alt="Portfolio Website" />
+    </a>
     <a href="https://linkedin.com/in/vishal-rao-173a232b9" target="_blank">
-      <img src="https://img.shields.io/badge/Guild_Leader-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Guild" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Guild" />
     </a>
     <a href="mailto:vishalrao5432@gmail.com">
-      <img src="https://img.shields.io/badge/Send_Raven-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Raven" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Raven" />
     </a>
     <a href="https://discord.com" target="_blank">
-      <img src="https://img.shields.io/badge/Party_Voice-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=vishal-rao28" alt="Discord Voice" />
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=vishal-rao28" alt="Discord Voice" />
     </a>
     <a href="https://www.instagram.com/_f.r.e.a.k.y.vr_" target="_blank">
-      <img src="https://img.shields.io/badge/Tavern_Stories-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Tavern" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Stories" />
     </a>
   </p>
 </div>
