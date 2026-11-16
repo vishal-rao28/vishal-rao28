@@ -90,88 +90,246 @@ final class VishalRao: NativeIOSArchitect {
 
 ###  5+ Production Applications Live on Apple App Store
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="8%" align="center">Icon</th>
-      <th width="24%" align="left">App & Role</th>
-      <th width="48%" align="left">Architecture, Tech Stack & Highlights</th>
-      <th width="20%" align="center">App Store Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/viana/app_icon.jpg" width="48" height="48" style="border-radius: 12px;" alt="Viana 360" /></td>
-      <td><b>Viana 360</b><br/><sub>Lead iOS Engineer · SIMATS</sub></td>
-      <td>
-        • <b>Stack:</b> SwiftUI, UIKit, Combine, CoreLocation, APNs Push<br/>
-        • <b>Highlights:</b> Enterprise perimeter attendance via polygon geofencing, multi-role security auth, iPadOS SplitView layout, zero-leak memory profile.
-      </td>
-      <td align="center">
-        <a href="https://apps.apple.com/in/app/viana-360/id6760163659" target="_blank">
-          <img src="https://img.shields.io/badge/App_Store-★_4.4-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Viana 360 App Store" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/smartulcer/app_icon.jpg" width="48" height="48" style="border-radius: 12px;" alt="Smart Ulcer Predictor" /></td>
-      <td><b>Smart Ulcer Predictor</b><br/><sub>Clinical On-Device AI Engineer</sub></td>
-      <td>
-        • <b>Stack:</b> Core ML, Apple Neural Engine (ANE), Vision, SwiftUI<br/>
-        • <b>Highlights:</b> Sub-second (&lt;12ms) quantized CNN wound tissue diagnostics (Granulation, Slough, Necrotic), 100% offline HIPAA-ready patient privacy.
-      </td>
-      <td align="center">
-        <a href="https://apps.apple.com/in/app/smart-ulcer-predictor/id6755873140" target="_blank">
-          <img src="https://img.shields.io/badge/App_Store-★_5.0-059669?style=for-the-badge&logo=apple&logoColor=white" alt="Smart Ulcer App Store" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/breathtrack/app_icon.jpg" width="48" height="48" style="border-radius: 12px;" alt="BreathTrack" /></td>
-      <td><b>BreathTrack</b><br/><sub>MedTech Telehealth Architect</sub></td>
-      <td>
-        • <b>Stack:</b> Apple HealthKit, Combine, Core Data, PDFKit<br/>
-        • <b>Highlights:</b> Real-time SpO2 &amp; FVC spirometry streams, reactive clinical trend visualizers, automated clinician ABG report generation.
-      </td>
-      <td align="center">
-        <a href="https://apps.apple.com/in/app/breathtrack/id6804558579" target="_blank">
-          <img src="https://img.shields.io/badge/App_Store-Verified-E11D48?style=for-the-badge&logo=apple&logoColor=white" alt="BreathTrack App Store" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/corecare/app_icon.jpg" width="48" height="48" style="border-radius: 12px;" alt="CoreCare" /></td>
-      <td><b>CoreCare</b><br/><sub>Digital Cardiology Companion</sub></td>
-      <td>
-        • <b>Stack:</b> HealthKit, SQLite, Apple HIG Controls, PDFKit<br/>
-        • <b>Highlights:</b> Cardiovascular telemetry recording, BPM variance charting, offline-first clinical logs, automated cardiology export.
-      </td>
-      <td align="center">
-        <a href="https://apps.apple.com/in/app/corecare/id6753789920" target="_blank">
-          <img src="https://img.shields.io/badge/App_Store-Verified-7E22CE?style=for-the-badge&logo=apple&logoColor=white" alt="CoreCare App Store" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/hairjourney/app_icon.jpg" width="48" height="48" style="border-radius: 12px;" alt="HairJourneyTracker" /></td>
-      <td><b>HairJourneyTracker</b><br/><sub>Lifestyle &amp; Milestone iOS Dev</sub></td>
-      <td>
-        • <b>Stack:</b> PhotosUI, Custom Canvas Animations, UserNotifications<br/>
-        • <b>Highlights:</b> Photographic progression alignment, side-by-side milestone comparison, background local reminder scheduling.
-      </td>
-      <td align="center">
-        <a href="https://apps.apple.com/in/app/hairjourneytracker/id6760697820" target="_blank">
-          <img src="https://img.shields.io/badge/App_Store-Verified-EA580C?style=for-the-badge&logo=apple&logoColor=white" alt="HairJourneyTracker App Store" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
+<div align="center">
+  <!--  Master 5-App Interactive Command Deck with Real Ingested iPhone Screens -->
+  <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/#work" target="_blank">
+    <img src="./apps_showcase_deck.png?v=1" alt=" 5 Production iOS Applications Live on Apple App Store - Master Command Deck" width="100%" />
+  </a>
+  <br/><br/>
+</div>
+
+<!-- ================= 5 LIVE APPS VISUAL EDITORIAL CARDS ================= -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Card 1: Viana 360 -->
+    <td width="50%" valign="top">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #38bdf8; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td width="52" valign="middle">
+            <img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/viana/app_icon.jpg" width="48" height="48" style="border-radius: 12px; border: 1.5px solid #38bdf8;" alt="Viana 360" />
+          </td>
+          <td valign="middle">
+            <b style="font-size: 15px; color: #ffffff;">Viana 360</b><br/>
+            <span style="color: #38bdf8; font-family: monospace; font-size: 10px; font-weight: bold;">ENTERPRISE GPS &amp; BIOMETRICS</span>
+          </td>
+          <td align="right" valign="middle">
+            <a href="https://apps.apple.com/in/app/viana-360/id6760163659" target="_blank">
+              <img src="https://img.shields.io/badge/App_Store-★_4.4-0A84FF?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="padding-top: 8px;">
+            <img src="https://img.shields.io/badge/SwiftUI_6-090e1a?style=flat-square&logo=swift&logoColor=38bdf8" />
+            <img src="https://img.shields.io/badge/Combine-090e1a?style=flat-square&logo=apple&logoColor=white" />
+            <img src="https://img.shields.io/badge/CoreLocation-090e1a?style=flat-square&logo=apple&logoColor=white" />
+            <img src="https://img.shields.io/badge/APNs_Push-090e1a?style=flat-square&logo=apple&logoColor=white" />
+            <br/><br/>
+            <span style="color: #cbd5e1; font-size: 12px; line-height: 1.5;">
+              🛰️ <b>Polygon Geofencing:</b> Real-time perimeter attendance tracking with hardware GPS.<br/>
+              📱 <b>iPadOS Multitasking:</b> SplitView dashboard with zero-leak Instruments profile.
+            </span>
+            <br/><br/>
+            <div align="center">
+              <a href="https://apps.apple.com/in/app/viana-360/id6760163659" target="_blank">
+                <img src="https://img.shields.io/badge/_View_on_App_Store-0284c7?style=for-the-badge&logo=apple&logoColor=white" />
+              </a>
+              &nbsp;
+              <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/#work" target="_blank">
+                <img src="https://img.shields.io/badge/🌐_Interactive_Demo-0f172a?style=for-the-badge&logo=safari&logoColor=38bdf8" />
+              </a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+
+    <!-- Card 2: Smart Ulcer Predictor -->
+    <td width="50%" valign="top">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #10b981; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td width="52" valign="middle">
+            <img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/smartulcer/app_icon.jpg" width="48" height="48" style="border-radius: 12px; border: 1.5px solid #10b981;" alt="Smart Ulcer Predictor" />
+          </td>
+          <td valign="middle">
+            <b style="font-size: 15px; color: #ffffff;">Smart Ulcer Predictor</b><br/>
+            <span style="color: #10b981; font-family: monospace; font-size: 10px; font-weight: bold;">CLINICAL ON-DEVICE AI</span>
+          </td>
+          <td align="right" valign="middle">
+            <a href="https://apps.apple.com/in/app/smart-ulcer-predictor/id6755873140" target="_blank">
+              <img src="https://img.shields.io/badge/App_Store-★_5.0-059669?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="padding-top: 8px;">
+            <img src="https://img.shields.io/badge/Core_ML-090e1a?style=flat-square&logo=apple&logoColor=10b981" />
+            <img src="https://img.shields.io/badge/Apple_Neural_Engine-090e1a?style=flat-square&logo=apple&logoColor=34d399" />
+            <img src="https://img.shields.io/badge/Vision_Framework-090e1a?style=flat-square&logo=apple&logoColor=white" />
+            <img src="https://img.shields.io/badge/HIPAA_Ready-090e1a?style=flat-square&logo=shield&logoColor=f59e0b" />
+            <br/><br/>
+            <span style="color: #cbd5e1; font-size: 12px; line-height: 1.5;">
+              🧠 <b>Sub-Second ANE:</b> &lt;12ms quantized CNN tissue classification (Granulation / Slough).<br/>
+              🔐 <b>100% Offline:</b> Patient biomedical images processed locally with zero cloud egress.
+            </span>
+            <br/><br/>
+            <div align="center">
+              <a href="https://apps.apple.com/in/app/smart-ulcer-predictor/id6755873140" target="_blank">
+                <img src="https://img.shields.io/badge/_View_on_App_Store-059669?style=for-the-badge&logo=apple&logoColor=white" />
+              </a>
+              &nbsp;
+              <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/#work" target="_blank">
+                <img src="https://img.shields.io/badge/🌐_Interactive_Demo-0f172a?style=for-the-badge&logo=safari&logoColor=34d399" />
+              </a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr><td colspan="2" height="14"></td></tr>
+
+  <tr>
+    <!-- Card 3: BreathTrack -->
+    <td width="50%" valign="top">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #f43f5e; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td width="52" valign="middle">
+            <img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/breathtrack/app_icon.jpg" width="48" height="48" style="border-radius: 12px; border: 1.5px solid #f43f5e;" alt="BreathTrack" />
+          </td>
+          <td valign="middle">
+            <b style="font-size: 15px; color: #ffffff;">BreathTrack</b><br/>
+            <span style="color: #f43f5e; font-family: monospace; font-size: 10px; font-weight: bold;">MEDTECH &amp; TELEHEALTH</span>
+          </td>
+          <td align="right" valign="middle">
+            <a href="https://apps.apple.com/in/app/breathtrack/id6804558579" target="_blank">
+              <img src="https://img.shields.io/badge/App_Store-Verified-E11D48?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="padding-top: 8px;">
+            <img src="https://img.shields.io/badge/Apple_HealthKit-090e1a?style=flat-square&logo=apple&logoColor=f43f5e" />
+            <img src="https://img.shields.io/badge/Combine_Streams-090e1a?style=flat-square&logo=apple&logoColor=white" />
+            <img src="https://img.shields.io/badge/PDFKit_Clinicals-090e1a?style=flat-square&logo=apple&logoColor=white" />
+            <img src="https://img.shields.io/badge/Core_Data-090e1a?style=flat-square&logo=apple&logoColor=white" />
+            <br/><br/>
+            <span style="color: #cbd5e1; font-size: 12px; line-height: 1.5;">
+              🫁 <b>Spirometry Telemetry:</b> Real-time SpO2 &amp; FVC telemetry with reactive Combine visualizers.<br/>
+              📋 <b>Clinician Diagnostics:</b> Automated clinical PDF export and ABG trend forecasting.
+            </span>
+            <br/><br/>
+            <div align="center">
+              <a href="https://apps.apple.com/in/app/breathtrack/id6804558579" target="_blank">
+                <img src="https://img.shields.io/badge/_View_on_App_Store-e11d48?style=for-the-badge&logo=apple&logoColor=white" />
+              </a>
+              &nbsp;
+              <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/#work" target="_blank">
+                <img src="https://img.shields.io/badge/🌐_Interactive_Demo-0f172a?style=for-the-badge&logo=safari&logoColor=f43f5e" />
+              </a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+
+    <!-- Card 4: CoreCare -->
+    <td width="50%" valign="top">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #a855f7; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td width="52" valign="middle">
+            <img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/corecare/app_icon.jpg" width="48" height="48" style="border-radius: 12px; border: 1.5px solid #a855f7;" alt="CoreCare" />
+          </td>
+          <td valign="middle">
+            <b style="font-size: 15px; color: #ffffff;">CoreCare</b><br/>
+            <span style="color: #a855f7; font-family: monospace; font-size: 10px; font-weight: bold;">CARDIOLOGY COMPANION</span>
+          </td>
+          <td align="right" valign="middle">
+            <a href="https://apps.apple.com/in/app/corecare/id6753789920" target="_blank">
+              <img src="https://img.shields.io/badge/App_Store-Live-7E22CE?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="padding-top: 8px;">
+            <img src="https://img.shields.io/badge/HealthKit_BPM-090e1a?style=flat-square&logo=apple&logoColor=a855f7" />
+            <img src="https://img.shields.io/badge/SQLite_Offline-090e1a?style=flat-square&logo=sqlite&logoColor=white" />
+            <img src="https://img.shields.io/badge/Apple_HIG-090e1a?style=flat-square&logo=apple&logoColor=white" />
+            <img src="https://img.shields.io/badge/PDF_Export-090e1a?style=flat-square&logo=apple&logoColor=white" />
+            <br/><br/>
+            <span style="color: #cbd5e1; font-size: 12px; line-height: 1.5;">
+              ❤️ <b>Cardiovascular Logs:</b> Real-time BPM variance telemetry and high-precision heart monitoring.<br/>
+              📑 <b>Offline-First Architecture:</b> Local encrypted SQLite clinical records with 1-click PDF sharing.
+            </span>
+            <br/><br/>
+            <div align="center">
+              <a href="https://apps.apple.com/in/app/corecare/id6753789920" target="_blank">
+                <img src="https://img.shields.io/badge/_View_on_App_Store-7e22ce?style=for-the-badge&logo=apple&logoColor=white" />
+              </a>
+              &nbsp;
+              <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/#work" target="_blank">
+                <img src="https://img.shields.io/badge/🌐_Interactive_Demo-0f172a?style=for-the-badge&logo=safari&logoColor=c084fc" />
+              </a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr><td colspan="2" height="14"></td></tr>
+
+  <tr>
+    <!-- Card 5: HairJourneyTracker (Full Width Centered) -->
+    <td colspan="2" valign="top">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #fb923c; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td width="52" valign="middle">
+            <img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/hairjourney/app_icon.jpg" width="48" height="48" style="border-radius: 12px; border: 1.5px solid #fb923c;" alt="HairJourneyTracker" />
+          </td>
+          <td valign="middle">
+            <b style="font-size: 15px; color: #ffffff;">HairJourneyTracker</b><br/>
+            <span style="color: #fb923c; font-family: monospace; font-size: 10px; font-weight: bold;">LIFESTYLE &amp; MILESTONE PROGRESSION DIFFING</span>
+          </td>
+          <td align="right" valign="middle">
+            <a href="https://apps.apple.com/in/app/hairjourneytracker/id6760697820" target="_blank">
+              <img src="https://img.shields.io/badge/App_Store-Live-EA580C?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3" style="padding-top: 8px;">
+            <img src="https://img.shields.io/badge/PhotosUI_Ingestion-090e1a?style=flat-square&logo=apple&logoColor=fb923c" />
+            <img src="https://img.shields.io/badge/Custom_SwiftUI_Canvas-090e1a?style=flat-square&logo=swift&logoColor=white" />
+            <img src="https://img.shields.io/badge/Local_UserNotifications-090e1a?style=flat-square&logo=apple&logoColor=white" />
+            <img src="https://img.shields.io/badge/Milestone_Diffing-090e1a?style=flat-square&logo=apple&logoColor=white" />
+            <br/><br/>
+            <span style="color: #cbd5e1; font-size: 12px; line-height: 1.5;">
+              📸 <b>Time-Lapse Diffing:</b> High-resolution asset ingestion with split-milestone visual overlays.<br/>
+              ⏰ <b>Automated Reminders:</b> Background user notification scheduling with local calendar synchronization.
+            </span>
+            <br/><br/>
+            <div align="center">
+              <a href="https://apps.apple.com/in/app/hairjourneytracker/id6760697820" target="_blank">
+                <img src="https://img.shields.io/badge/_View_on_App_Store-ea580c?style=for-the-badge&logo=apple&logoColor=white" />
+              </a>
+              &nbsp;
+              <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/#work" target="_blank">
+                <img src="https://img.shields.io/badge/🌐_Interactive_Demo-0f172a?style=for-the-badge&logo=safari&logoColor=fb923c" />
+              </a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
+<br/>
 <div align="center">
-  <br/>
   <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/#work" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_Interactive_App_Screenshots_in_Portfolio-38BDF8?style=for-the-badge&logo=safari&logoColor=black" alt="Explore in Portfolio" />
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_FULL_INTERACTIVE_3D_APP_GALLERY-38BDF8?style=for-the-badge&logo=safari&logoColor=black" alt="Full Gallery" />
   </a>
 </div>
 
