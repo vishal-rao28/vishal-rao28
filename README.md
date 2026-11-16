@@ -1,5 +1,5 @@
 <div align="center">
-  <!--  Master Apple iOS & visionOS Command Deck Banner (Non-clickable standalone image) -->
+  <!--  Master Apple iOS & visionOS Command Deck Banner (Non-clickable standalone image - PRESERVED) -->
   <a href="#-"><img src="./banner.png?v=4" alt="Vishal Rao M - Lead Native iOS & AI Architect" width="100%" /></a>
 
   <br/><br/>
@@ -47,22 +47,37 @@
 
 ### 👤 Executive Summary & Architect HUD
 
-<table border="0" width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="62%" valign="top">
+      <!-- Xcode 16 Titanium Glass IDE Card -->
+      <table width="100%" border="0" style="background-color: #030712; border: 1.5px solid #38bdf8; border-radius: 14px; padding: 0; overflow: hidden;">
+        <!-- Window Title Bar -->
+        <tr style="background-color: #0b1329;">
+          <td colspan="2" style="padding: 10px 14px; border-bottom: 1px solid rgba(255,255,255,0.1);">
+            <span style="color: #ef4444; font-size: 14px;">●</span>
+            <span style="color: #f59e0b; font-size: 14px;">●</span>
+            <span style="color: #10b981; font-size: 14px;">●</span>
+            &nbsp;&nbsp;
+            <code style="color: #cbd5e1; font-size: 11px;">Xcode 16.2 • VishalRaoArchitect.swift</code>
+            <span align="right" style="float: right; color: #34d399; font-size: 10px; font-weight: bold;">● BUILD SUCCEEDED</span>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 16px;">
 
 ```swift
 final class VishalRao: NativeIOSArchitect {
-    let identity: String     = "Vishal Rao M 👋"
+    let identity: String       = "Vishal Rao M 👋"
     let specialization: String = "Native iOS 18 & On-Device Core ML AI"
-    let education: String    = "B.E. Computer Science • SIMATS Chennai"
-    let currentFocus: String = "Apple Neural Engine (ANE) & Spatial Computing"
+    let education: String      = "B.E. Computer Science • SIMATS Chennai"
+    let currentFocus: String   = "Apple Neural Engine (ANE) & Spatial Computing"
 
     //  Production Metrics & SLA
-    let appStoreAppsLive: Int = 5          // Verified Apple App Store
-    let aneInferenceTime: String = "<12ms" // Quantized FP16 Vision
-    let displayRefreshSLA: String = "120 FPS ProMotion Zero Frame Drops"
-    let automatedQAGates: Int = 4          // Selenium, Appium, Keychain, Instruments
+    let appStoreAppsLive: Int    = 5          // Verified Apple App Store
+    let aneInferenceTime: String = "<12ms"    // Quantized FP16 Vision
+    let displayRefreshSLA: String = "120 FPS Fluid ProMotion Guarantee"
+    let automatedQAGates: Int    = 4          // Selenium, Appium, Keychain, Instruments
 
     // Primary Core Loadout
     var coreCompetencies: [Framework] = [
@@ -72,15 +87,27 @@ final class VishalRao: NativeIOSArchitect {
 }
 ```
 
-- 🎯 **Primary Mission:** Engineering bulletproof, high-performance native iOS applications with sub-second on-device machine learning, zero cloud latency, and 100% offline user privacy.
-- 📱 **Apple Ecosystem Mastery:** Swift 6, SwiftUI declarative architectures, UIKit legacy interoperability, Combine reactive streams, and Vision Pro spatial foundations.
-- 🛡️ **Zero-Defect Philosophy:** Every release is backed by 4 automated verification gates (Web Selenium, Mobile Appium, Enclave Keychain Security, and 120 FPS Instruments profiling).
-
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="310" alt="Cyber Retro Gamer Animation" />
-      <br/>
-      <sub>⚡ <i>"Crafting fluid Apple experiences where code meets intelligence."</i></sub>
+    <td width="38%" valign="top" style="padding-left: 16px;">
+      <!-- Architect Telemetry Dossier Card -->
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #a855f7; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td align="center">
+            <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="Cyber Retro Gamer Animation" />
+            <br/><br/>
+            <img src="https://img.shields.io/badge/_Apple_Developer-Verified-0ea5e9?style=for-the-badge&logo=apple&logoColor=white" /><br/>
+            <img src="https://img.shields.io/badge/5_Production_Apps_Live-10b981?style=for-the-badge&logo=appstore&logoColor=white" /><br/>
+            <img src="https://img.shields.io/badge/4_Automated_QA_Gates-f43f5e?style=for-the-badge&logo=shield&logoColor=white" />
+            <br/><br/>
+            <span style="color: #cbd5e1; font-size: 11.5px; font-style: italic;">
+              "Crafting fluid Apple ecosystem experiences where native performance meets on-device intelligence."
+            </span>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -145,7 +172,7 @@ final class VishalRao: NativeIOSArchitect {
     </td>
 
     <!-- Card 2: Smart Ulcer Predictor -->
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-left: 12px;">
       <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #10b981; border-radius: 14px; padding: 14px;">
         <tr>
           <td width="52" valign="middle">
@@ -204,7 +231,7 @@ final class VishalRao: NativeIOSArchitect {
           </td>
           <td align="right" valign="middle">
             <a href="https://apps.apple.com/in/app/breathtrack/id6804558579" target="_blank">
-              <img src="https://img.shields.io/badge/App_Store-Verified-E11D48?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
+              <img src="https://img.shields.io/badge/App_Store-Live-E11D48?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
             </a>
           </td>
         </tr>
@@ -235,7 +262,7 @@ final class VishalRao: NativeIOSArchitect {
     </td>
 
     <!-- Card 4: CoreCare -->
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-left: 12px;">
       <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #a855f7; border-radius: 14px; padding: 14px;">
         <tr>
           <td width="52" valign="middle">
@@ -338,31 +365,57 @@ final class VishalRao: NativeIOSArchitect {
 
 ### 🧠 On-Device AI & Core ML Architecture
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
+    <!-- Neural Card 1: Apple Neural Engine -->
     <td width="33%" valign="top">
-      <h4>⚡ Apple Neural Engine (ANE)</h4>
-      <ul>
-        <li><b>Sub-Second Latency:</b> Quantized FP16 Core ML models executing in <code>&lt;12ms</code>.</li>
-        <li><b>Zero Cloud Dependency:</b> Zero API billing, zero egress bandwidth, operates seamlessly in airplane mode.</li>
-        <li><b>HIPAA &amp; GDPR Compliant:</b> Patient biometric images never leave device silicon.</li>
-      </ul>
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #38bdf8; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/SILICON-ANE-38bdf8?style=for-the-badge&logo=apple&logoColor=white" /><br/><br/>
+            <b style="color: #ffffff; font-size: 14px;">⚡ Apple Neural Engine (ANE)</b>
+            <ul style="color: #cbd5e1; font-size: 11.5px; padding-left: 18px; line-height: 1.6;">
+              <li><b>Sub-Second Latency:</b> Quantized FP16 Core ML models executing in <code>&lt;12ms</code>.</li>
+              <li><b>Zero Cloud Dependency:</b> Zero API cost, zero network bandwidth, 100% offline.</li>
+              <li><b>HIPAA &amp; GDPR Compliant:</b> Sensitive patient biometric data never leaves silicon.</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="33%" valign="top">
-      <h4>👁️ Apple Vision Framework</h4>
-      <ul>
-        <li><b>High-Precision Ingestion:</b> <code>VNImageRequestHandler</code> with native pixel-buffer pipelines.</li>
-        <li><b>Multi-Class Segmentation:</b> Real-time wound bed boundary mapping and tissue staging.</li>
-        <li><b>Hardware Acceleration:</b> Metal Performance Shaders (MPS) memory mapping.</li>
-      </ul>
+
+    <!-- Neural Card 2: Vision Framework -->
+    <td width="33%" valign="top" style="padding-left: 10px;">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #10b981; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/VISION-FRAMEWORK-10b981?style=for-the-badge&logo=apple&logoColor=white" /><br/><br/>
+            <b style="color: #ffffff; font-size: 14px;">👁️ Apple Vision Kit</b>
+            <ul style="color: #cbd5e1; font-size: 11.5px; padding-left: 18px; line-height: 1.6;">
+              <li><b>High-Precision Ingestion:</b> Native <code>CVPixelBuffer</code> pipelines without latency.</li>
+              <li><b>Tissue Segmentation:</b> Real-time wound staging (Granulation, Slough, Necrotic).</li>
+              <li><b>Metal Acceleration:</b> Metal Performance Shaders (MPS) direct memory mapping.</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="33%" valign="top">
-      <h4>🔐 Hardware Secure Enclave</h4>
-      <ul>
-        <li><b>Biometric Gates:</b> LocalAuthentication Face ID / Touch ID validation.</li>
-        <li><b>Zero-Knowledge Keychain:</b> <code>kSecAccessControlBiometryAny</code> hardware-backed secret storage.</li>
-        <li><b>Encrypted Tokens:</b> AES-256 session vault for all enterprise network transactions.</li>
-      </ul>
+
+    <!-- Neural Card 3: Secure Enclave -->
+    <td width="33%" valign="top" style="padding-left: 10px;">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #a855f7; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/SECURITY-ENCLAVE-a855f7?style=for-the-badge&logo=apple&logoColor=white" /><br/><br/>
+            <b style="color: #ffffff; font-size: 14px;">🔐 Hardware Secure Enclave</b>
+            <ul style="color: #cbd5e1; font-size: 11.5px; padding-left: 18px; line-height: 1.6;">
+              <li><b>Biometric Gates:</b> LocalAuthentication Face ID / Touch ID hardware authorization.</li>
+              <li><b>Zero-Knowledge Keychain:</b> <code>kSecAccessControlBiometryAny</code> hardware secret vault.</li>
+              <li><b>Encrypted Tokens:</b> AES-256 session vault for all enterprise network requests.</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -372,27 +425,66 @@ final class VishalRao: NativeIOSArchitect {
 
 ### 🛡️ 4-Gate Automated Quality Verification Pipeline
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/GATE_01-WEB_REGRESSION-38BDF8?style=for-the-badge&logo=selenium&logoColor=white" alt="Gate 1" /><br/><br/>
-      <b>Selenium Automation</b><br/>
-      <sub>Full cross-browser integration suites, admin console test harness &amp; portal sanity checks</sub>
+    <!-- Gate 1: Web -->
+    <td width="25%" valign="top">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #38bdf8; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/GATE_01-WEB_REGRESSION-38BDF8?style=for-the-badge&logo=selenium&logoColor=white" /><br/><br/>
+            <b style="color: #ffffff; font-size: 13.5px;">Selenium Automation</b><br/>
+            <span style="color: #94a3b8; font-size: 11px; line-height: 1.5;">
+              Full cross-browser integration suites, admin console test harness &amp; portal sanity checks.
+            </span>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/GATE_02-MOBILE_E2E-A855F7?style=for-the-badge&logo=appium&logoColor=white" alt="Gate 2" /><br/><br/>
-      <b>Appium iOS / Android</b><br/>
-      <sub>Automated gesture driving, biometric simulations, split-view rotation &amp; deep-link audits</sub>
+
+    <!-- Gate 2: Mobile -->
+    <td width="25%" valign="top" style="padding-left: 8px;">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #a855f7; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/GATE_02-MOBILE_E2E-A855F7?style=for-the-badge&logo=appium&logoColor=white" /><br/><br/>
+            <b style="color: #ffffff; font-size: 13.5px;">Appium iOS / Android</b><br/>
+            <span style="color: #94a3b8; font-size: 11px; line-height: 1.5;">
+              Automated on-device gesture driving, biometric simulations, split-view rotation &amp; deep-links.
+            </span>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/GATE_03-HARDWARE_AUTH-F43F5E?style=for-the-badge&logo=apple&logoColor=white" alt="Gate 3" /><br/><br/>
-      <b>Keychain &amp; Enclave</b><br/>
-      <sub>Biometric session invalidation, cryptographic token hygiene &amp; SSL certificate pinning</sub>
+
+    <!-- Gate 3: Security -->
+    <td width="25%" valign="top" style="padding-left: 8px;">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #f43f5e; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/GATE_03-HARDWARE_AUTH-F43F5E?style=for-the-badge&logo=apple&logoColor=white" /><br/><br/>
+            <b style="color: #ffffff; font-size: 13.5px;">Keychain &amp; Enclave</b><br/>
+            <span style="color: #94a3b8; font-size: 11px; line-height: 1.5;">
+              Biometric session invalidation, cryptographic token hygiene &amp; SSL certificate pinning.
+            </span>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/GATE_04-PERFORMANCE-10B981?style=for-the-badge&logo=speedtest&logoColor=white" alt="Gate 4" /><br/><br/>
-      <b>120 FPS Instruments</b><br/>
-      <sub>Time Profiler, Leaks &amp; Allocations audits guaranteeing zero-drop ProMotion animations</sub>
+
+    <!-- Gate 4: Performance -->
+    <td width="25%" valign="top" style="padding-left: 8px;">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #10b981; border-radius: 14px; padding: 14px;">
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/GATE_04-PERFORMANCE-10B981?style=for-the-badge&logo=speedtest&logoColor=white" /><br/><br/>
+            <b style="color: #ffffff; font-size: 13.5px;">120 FPS Instruments</b><br/>
+            <span style="color: #94a3b8; font-size: 11px; line-height: 1.5;">
+              Time Profiler, Leaks &amp; Allocations audits guaranteeing zero-drop ProMotion animations.
+            </span>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -400,17 +492,17 @@ final class VishalRao: NativeIOSArchitect {
 <!-- Glowing Neon Laser Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
 
-### ⚔️ Technical Arsenal & Frameworks
+### ⚔️ Technical Arsenal & Core Competencies
 
 <div align="center">
 
-| Domain | Mastered Technologies & Frameworks | Icons |
-| :--- | :--- | :---: |
-| ** Apple Native Ecosystem** | `Swift 6`, `SwiftUI`, `UIKit`, `Combine`, `Concurrency (async/await, Actors)`, `visionOS` | <img src="https://skillicons.dev/icons?i=swift,apple" alt="Swift & Apple" /> |
-| **🧠 On-Device AI & MedTech** | `Core ML`, `Vision Framework`, `Apple Neural Engine (ANE)`, `Apple HealthKit`, `PDFKit` | <img src="https://skillicons.dev/icons?i=pytorch,python" alt="AI & ML" /> |
-| **🛡️ Automated QA & CI/CD** | `Selenium WebDriver`, `Appium`, `XCTest / XCUITest`, `Fastlane`, `TestFlight`, `Xcode Instruments` | <img src="https://skillicons.dev/icons?i=selenium,docker,githubactions" alt="QA & DevOps" /> |
-| **💾 Persistence & Storage** | `Core Data`, `SQLite`, `Offline-First Caching`, `FileManager`, `UserDefaults` | <img src="https://skillicons.dev/icons?i=sqlite" alt="Databases" /> |
-| **☁️ Dev Tooling & Workflow** | `Xcode 16`, `Git`, `GitHub`, `Postman`, `VS Code`, `Terminal (Zsh)` | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" alt="Tools" /> |
+| Tier | Specialization Domain | Mastered Technologies & Frameworks | Official Stacks |
+| :---: | :--- | :--- | :---: |
+| **S+** | ** Native Apple Platforms** | `Swift 6`, `SwiftUI`, `UIKit`, `Combine`, `Concurrency (async/await, Actors)`, `visionOS` | <img src="https://skillicons.dev/icons?i=swift,apple" alt="Swift & Apple" /> |
+| **S** | **🧠 On-Device AI & MedTech** | `Core ML`, `Vision Framework`, `Apple Neural Engine (ANE)`, `Apple HealthKit`, `PDFKit` | <img src="https://skillicons.dev/icons?i=pytorch,python" alt="AI & ML" /> |
+| **S** | **🛡️ Automated QA & CI/CD** | `Selenium WebDriver`, `Appium`, `XCTest / XCUITest`, `Fastlane`, `TestFlight`, `Instruments` | <img src="https://skillicons.dev/icons?i=selenium,docker,githubactions" alt="QA & DevOps" /> |
+| **A** | **💾 Persistence & Storage** | `Core Data`, `SQLite`, `Offline-First Caching`, `FileManager`, `UserDefaults` | <img src="https://skillicons.dev/icons?i=sqlite" alt="Databases" /> |
+| **A** | **☁️ Tooling & Architecture** | `Xcode 16`, `Clean MVVM-C`, `Modular SPM`, `Git`, `Postman`, `Terminal (Zsh)` | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash" alt="Tools" /> |
 
 </div>
 
@@ -419,7 +511,7 @@ final class VishalRao: NativeIOSArchitect {
 <!-- Glowing Neon Laser Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
 
-### 📊 GitHub Battle Metrics
+### 📊 GitHub Activity & Battle Radar
 
 <div align="center">
   <table border="0">
@@ -453,31 +545,41 @@ final class VishalRao: NativeIOSArchitect {
   </picture>
 </div>
 
-<br/>
-
 <!-- Glowing Neon Laser Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
 
-### 📬 Career, Collaboration & Contact
+### 📬 Career, Collaboration & Recruiter Connect
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>💼 Open To High-Impact Roles</h4>
-      <ul>
-        <li><b>Target Roles:</b> Lead / Senior Native iOS Engineer, Mobile AI Architect, SwiftUI Specialist</li>
-        <li><b>Location:</b> Chennai, India • Hybrid • Remote Worldwide</li>
-        <li><b>Commitment:</b> Architecture excellence, high velocity, zero technical debt</li>
-      </ul>
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #38bdf8; border-radius: 14px; padding: 16px;">
+        <tr>
+          <td>
+            <h4 style="color: #38bdf8; margin-top: 0;">💼 Available For High-Impact Roles</h4>
+            <ul style="color: #cbd5e1; font-size: 12px; line-height: 1.7; padding-left: 20px;">
+              <li><b>Target Roles:</b> Lead / Senior Native iOS Engineer, Mobile AI Architect, SwiftUI Specialist</li>
+              <li><b>Locations:</b> Chennai, India • Hybrid • Remote Worldwide</li>
+              <li><b>Core Commitment:</b> Architecture excellence, high shipping velocity, zero technical debt</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Quick Communications</h4>
-      <ul>
-        <li><b>Email:</b> <a href="mailto:vishalrao5432@gmail.com">vishalrao5432@gmail.com</a></li>
-        <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/vishal-rao-173a232b9" target="_blank">linkedin.com/in/vishal-rao-173a232b9</a></li>
-        <li><b>Live Portfolio:</b> <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/" target="_blank">vishal-rao28.github.io/Vishal-s-portfolio/</a></li>
-        <li><b>WhatsApp:</b> <a href="https://wa.me/916382190388" target="_blank">+91 63821 90388</a></li>
-      </ul>
+    <td width="50%" valign="top" style="padding-left: 12px;">
+      <table width="100%" border="0" style="background-color: #070b16; border: 1.5px solid #10b981; border-radius: 14px; padding: 16px;">
+        <tr>
+          <td>
+            <h4 style="color: #10b981; margin-top: 0;">⚡ Direct Communication Channels</h4>
+            <ul style="color: #cbd5e1; font-size: 12px; line-height: 1.7; padding-left: 20px;">
+              <li><b>Email Direct:</b> <a href="mailto:vishalrao5432@gmail.com" style="color: #38bdf8;">vishalrao5432@gmail.com</a></li>
+              <li><b>LinkedIn Profile:</b> <a href="https://linkedin.com/in/vishal-rao-173a232b9" target="_blank" style="color: #38bdf8;">linkedin.com/in/vishal-rao-173a232b9</a></li>
+              <li><b>Live Portfolio 3D:</b> <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/" target="_blank" style="color: #38bdf8;">vishal-rao28.github.io/Vishal-s-portfolio/</a></li>
+              <li><b>WhatsApp Chat:</b> <a href="https://wa.me/916382190388" target="_blank" style="color: #38bdf8;">+91 63821 90388</a></li>
+            </ul>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -488,5 +590,5 @@ final class VishalRao: NativeIOSArchitect {
   <p>💾 <b>CHECKPOINT REACHED • 2026 ARCHITECT DOSSIER ONLINE</b></p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vishal-rao28.vishal-rao28&left_color=060913&right_color=38bdf8" alt="Visitor Count" />
   <br /><br />
-  <sub> Crafted with <b>Swift, Apple Neural Engine &amp; Passion</b> by <b>Vishal Rao M</b> · Verified on Apple App Store </sub>
+  <sub> Crafted with <b>Swift 6, Apple Neural Engine &amp; Passion</b> by <b>Vishal Rao M</b> · Verified on Apple App Store </sub>
 </div>
