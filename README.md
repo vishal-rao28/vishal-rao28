@@ -1,14 +1,12 @@
 <div align="center">
-  <!--  Master Apple iOS & visionOS Command Deck Banner -->
-  <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/" target="_blank">
-    <img src="./banner.png" alt="Vishal Rao M - Lead Native iOS & AI Architect" width="100%" />
-  </a>
+  <!--  Master Apple iOS & visionOS Command Deck Banner (Non-clickable standalone image) -->
+  <img src="./banner.png" alt="Vishal Rao M - Lead Native iOS & AI Architect" width="100%" />
 
   <br/><br/>
 
   <!-- 8-Bit Cyber Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=35&lines=LEVEL+99:+LEAD+NATIVE+iOS+%26+ON-DEVICE+AI+ARCHITECT+%F0%9F%93%B1;EQUIPPED:+SWIFTUI+%26+CORE+ML+%26+XCODE+16+%E2%9A%94%EF%B8%8F;MISSION:+5%2B+PRODUCTION+APPS+LIVE+ON+APPLE+APP+STORE+%EF%A3%BF;PIPELINE:+4+AUTOMATED+QUALITY+VERIFICATION+GATES+%F0%9F%9B%A1%EF%B8%8F;PERFORMANCE:+ZERO+WARNINGS+AT+120+FPS+PROMOTION+%E2%9A%A1;TOUCHDOWN:+TAP+ANYWHERE+TO+ENTER+PORTFOLIO+%E2%9C%A8" alt="Arcade Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=35&lines=LEVEL+99:+LEAD+NATIVE+iOS+%26+ON-DEVICE+AI+ARCHITECT+%F0%9F%93%B1;EQUIPPED:+SWIFTUI+%26+CORE+ML+%26+XCODE+16+%E2%9A%94%EF%B8%8F;MISSION:+5%2B+PRODUCTION+APPS+LIVE+ON+APPLE+APP+STORE+%EF%A3%BF;PIPELINE:+4+AUTOMATED+QUALITY+VERIFICATION+GATES+%F0%9F%9B%A1%EF%B8%8F;PERFORMANCE:+ZERO+WARNINGS+AT+120+FPS+PROMOTION+%E2%9A%A1;STATUS:+AVAILABLE+FOR+iOS+%26+AI+ROLES+%E2%9C%A8" alt="Arcade Typing Headline" />
   </a>
 
   <br/>
