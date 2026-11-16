@@ -1,6 +1,6 @@
 <div align="center">
   <!--  Master Apple iOS & visionOS Command Deck Banner (Non-clickable standalone image) -->
-  <a href="#-"><img src="./banner.png?v=2" alt="Vishal Rao M - Lead Native iOS & AI Architect" width="100%" /></a>
+  <a href="#-"><img src="./banner.png?v=3" alt="Vishal Rao M - Lead Native iOS & AI Architect" width="100%" /></a>
 
   <br/><br/>
 
