@@ -177,10 +177,10 @@ final class VishalRao: NativeIOSArchitect {
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=vishal-rao28&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="Player Battle Stats" height="165" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=vishal-rao28&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="Player Battle Stats" height="165" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-rao28&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Mastered Spells" height="165" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=vishal-rao28&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Mastered Spells" height="165" />
       </td>
     </tr>
   </table>
