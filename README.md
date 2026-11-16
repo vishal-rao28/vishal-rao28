@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Custom Cyberpunk Arcade iOS Banner -->
-  <a href="https://vishalrao-portfolio.netlify.app/" target="_blank">
-    <img src="./banner.png" alt="Vishal Rao - iOS & Mobile Architect" width="100%" />
+  <!-- Custom Cyberpunk Apple iOS & visionOS Command Deck Banner -->
+  <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/" target="_blank">
+    <img src="./banner.png" alt="Vishal Rao - Native iOS & AI Architect" width="100%" />
   </a>
 
   <br/><br/>
@@ -15,7 +15,7 @@
 
   <!-- Multiplayer Party / Guild Links -->
   <p align="center">
-    <a href="https://vishalrao-portfolio.netlify.app/" target="_blank">
+    <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-090d16?style=for-the-badge&logo=safari&logoColor=38bdf8" alt="Portfolio Website" />
     </a>
     <a href="https://linkedin.com/in/vishal-rao-173a232b9" target="_blank">
