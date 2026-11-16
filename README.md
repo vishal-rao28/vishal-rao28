@@ -1,34 +1,34 @@
 <div align="center">
-  <!-- Custom Cyberpunk Apple iOS & visionOS Command Deck Banner -->
+  <!--  Master Apple iOS & visionOS Command Deck Banner -->
   <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/" target="_blank">
-    <img src="./banner.png" alt="Vishal Rao - Native iOS & AI Architect" width="100%" />
+    <img src="./banner.png" alt="Vishal Rao M - Lead Native iOS & AI Architect" width="100%" />
   </a>
 
   <br/><br/>
 
-  <!-- 8-Bit Retro Pixel Font Typing SVG -->
+  <!-- 8-Bit Cyber Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=35&lines=LEVEL+99:+iOS+%26+MOBILE+ARCHITECT+%F0%9F%93%B1;EQUIPPED:+SWIFTUI+%26+XCODE+16+%E2%9A%94%EF%B8%8F;CURRENT+QUEST:+CORE-CARE+HEALTH+RAID+%F0%9F%A7%A0;ULTIMATE:+ZERO+WARNINGS+AT+120+FPS+%E2%9A%A1;PRESS+[START]+TO+JOIN+PARTY+%E2%9C%A8" alt="8-Bit Arcade Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=35&lines=LEVEL+99:+LEAD+NATIVE+iOS+%26+ON-DEVICE+AI+ARCHITECT+%F0%9F%93%B1;EQUIPPED:+SWIFTUI+%26+CORE+ML+%26+XCODE+16+%E2%9A%94%EF%B8%8F;MISSION:+5%2B+PRODUCTION+APPS+LIVE+ON+APPLE+APP+STORE+%EF%A3%BF;PIPELINE:+4+AUTOMATED+QUALITY+VERIFICATION+GATES+%F0%9F%9B%A1%EF%B8%8F;PERFORMANCE:+ZERO+WARNINGS+AT+120+FPS+PROMOTION+%E2%9A%A1;TOUCHDOWN:+TAP+ANYWHERE+TO+ENTER+PORTFOLIO+%E2%9C%A8" alt="Arcade Typing Headline" />
   </a>
 
   <br/>
 
-  <!-- Multiplayer Party / Guild Links -->
+  <!-- Quick Telemetry & Social Channels -->
   <p align="center">
     <a href="https://vishal-rao28.github.io/Vishal-s-portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-090d16?style=for-the-badge&logo=safari&logoColor=38bdf8" alt="Portfolio Website" />
+      <img src="https://img.shields.io/badge/Live_Portfolio-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Portfolio Website" />
     </a>
     <a href="https://linkedin.com/in/vishal-rao-173a232b9" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Guild" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
     </a>
     <a href="mailto:vishalrao5432@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Raven" />
+      <img src="https://img.shields.io/badge/Email_Direct-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct" />
     </a>
-    <a href="https://discord.com" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=vishal-rao28" alt="Discord Voice" />
+    <a href="https://wa.me/916382190388" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <a href="https://www.instagram.com/_f.r.e.a.k.y.vr_" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Stories" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
 </div>
@@ -36,33 +36,114 @@
 <!-- Glowing Neon Laser Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
 
-### 👾 Character HUD & Player Sheet
+###  5+ Production Applications Live on Apple App Store
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="8%" align="center">Icon</th>
+      <th width="24%" align="left">Application & Role</th>
+      <th width="48%" align="left">Architecture & Highlights</th>
+      <th width="20%" align="center">App Store Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/viana/app_icon.jpg" width="44" height="44" style="border-radius: 10px;" alt="Viana 360" /></td>
+      <td><b>Viana 360</b><br/><sub>Lead iOS Engineer · SIMATS</sub></td>
+      <td>SwiftUI, UIKit, Combine, CoreLocation geofencing for perimeter attendance, APNs broadcast push, iPadOS SplitView, XCTest regression suites.</td>
+      <td align="center"><a href="https://apps.apple.com/in/app/viana-360/id6760163659" target="_blank"><img src="https://img.shields.io/badge/App_Store-★_4.4-0A84FF?style=flat-square&logo=apple" alt="Viana 360" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/smartulcer/app_icon.jpg" width="44" height="44" style="border-radius: 10px;" alt="Smart Ulcer Predictor" /></td>
+      <td><b>Smart Ulcer Predictor</b><br/><sub>Clinical On-Device AI Engineer</sub></td>
+      <td>Quantized Convolutional Neural Networks on Apple Neural Engine (ANE), sub-second inference (&lt;12ms), Vision framework, 4-stage tissue staging.</td>
+      <td align="center"><a href="https://apps.apple.com/in/app/smart-ulcer-predictor/id6755873140" target="_blank"><img src="https://img.shields.io/badge/App_Store-★_5.0-059669?style=flat-square&logo=apple" alt="Smart Ulcer" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/breathtrack/app_icon.jpg" width="44" height="44" style="border-radius: 10px;" alt="BreathTrack" /></td>
+      <td><b>BreathTrack</b><br/><sub>MedTech Telehealth Architect</sub></td>
+      <td>Apple HealthKit integration, SpO2 &amp; FVC telemetry, reactive Combine state streams, clinician ABG diagnostic reporting, Core Data persistence.</td>
+      <td align="center"><a href="https://apps.apple.com/in/app/breathtrack/id6804558579" target="_blank"><img src="https://img.shields.io/badge/App_Store-Live-E11D48?style=flat-square&logo=apple" alt="BreathTrack" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/corecare/app_icon.jpg" width="44" height="44" style="border-radius: 10px;" alt="CoreCare" /></td>
+      <td><b>CoreCare</b><br/><sub>Digital Health &amp; Cardiology</sub></td>
+      <td>Real-time BPM cardiovascular telemetry, automated PDF clinical export via PDFKit, offline-first SQLite/Core Data, Apple HIG custom controls.</td>
+      <td align="center"><a href="https://apps.apple.com/in/app/corecare/id6753789920" target="_blank"><img src="https://img.shields.io/badge/App_Store-Live-7E22CE?style=flat-square&logo=apple" alt="CoreCare" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/vishal-rao28/Vishal-s-portfolio/main/src/assets/hairjourney/app_icon.jpg" width="44" height="44" style="border-radius: 10px;" alt="HairJourneyTracker" /></td>
+      <td><b>HairJourneyTracker</b><br/><sub>Lifestyle &amp; Milestone iOS Dev</sub></td>
+      <td>PhotosUI high-resolution asset ingestion, calendar milestone diffing, UserNotifications triggers, custom SwiftUI canvas animations.</td>
+      <td align="center"><a href="https://apps.apple.com/in/app/hairjourneytracker/id6760697820" target="_blank"><img src="https://img.shields.io/badge/App_Store-Live-EA580C?style=flat-square&logo=apple" alt="HairJourneyTracker" /></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Glowing Neon Laser Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+
+### 🛡️ 4-Gate Automated Quality Verification Architecture
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <b>Gate 01: Web</b><br/>
+      <code>Selenium Regression</code><br/>
+      <sub>Full cross-browser integration suites &amp; web dashboard verification</sub>
+    </td>
+    <td width="25%" align="center">
+      <b>Gate 02: Mobile</b><br/>
+      <code>Appium iOS / Android</code><br/>
+      <sub>Automated on-device gesture, biometric &amp; navigation test flows</sub>
+    </td>
+    <td width="25%" align="center">
+      <b>Gate 03: Security</b><br/>
+      <code>Encrypted Keychain</code><br/>
+      <sub>LocalAuthentication biometric gates, OAuth 2.0 &amp; token encryption</sub>
+    </td>
+    <td width="25%" align="center">
+      <b>Gate 04: Stress</b><br/>
+      <code>120 FPS Instruments</code><br/>
+      <sub>Time Profiler, Allocations &amp; Leaks audit for Zero-Crash SLA</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Glowing Neon Laser Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
+
+### 👾 Character HUD & Architecture Dossier
 
 <table border="0" width="100%">
   <tr>
     <td width="58%" valign="top">
 
 ```swift
-final class PlayerOne: iOSLegend {
-    let handle: String      = "vishal-rao28 🎮"
-    let roleClass: String   = "Grandmaster iOS & Mobile Crafter 🧙‍♂️"
-    let playerLevel: Int    = 99
-    let activeGuild: String = "Apple Developer Ecosystem 🍎"
+final class VishalRao: NativeIOSArchitect {
+    let handle: String      = "vishal-rao28 🚀"
+    let roleTitle: String   = "Lead iOS & On-Device AI Engineer"
+    let homeBase: String    = "Saveetha Engineering (SIMATS) • Chennai"
+    let ecosystem: String   = "Apple Developer • iOS 18 • visionOS 2.0"
 
-    // Live Player Gauges
-    var staminaGauge: String = "☕ [██████████] 100% Espresso"
-    var manaPool: String     = "⚡ [██████████] Infinite Logic"
-    var agility: String      = "📱 120 FPS SwiftUI ProMotion"
-    var ultimateMove: String = "Compile With Zero Warnings 🚀"
+    // Live Telemetry Gauges
+    var appsLive: Int       = 5 // Verified on Apple App Store
+    var aneLatency: String  = "⚡ 8.2ms Sub-Second Quantized Inferences"
+    var frameRate: String   = "📱 120 FPS Fluid ProMotion Guarantee"
+    var buildStatus: String = "🛡️ 0 Warnings • Zero Leaks • 4 QA Gates Passed"
 
     // Core Loadout
-    var weapons: [Item] = [.swift, .swiftUI, .flutter, .combine]
+    var weapons: [Framework] = [
+        .swift6, .swiftUI, .uikit, .coreML, 
+        .healthKit, .combine, .appium, .visionOS
+    ]
 }
 ```
 
-- 🎯 **Primary Quest:** Slaying latency & building buttery-smooth mobile apps.
-- 📜 **Skill Tree:** SwiftUI, UIKit, Clean MVVM, Reactive Programming, Combine & CoreData.
-- 🏆 **Achievement Unlocked:** Pixel-perfect UI translations from Figma prototypes.
+- 🎯 **Primary Quest:** Architecting blazing-fast native iOS apps with on-device computer vision and zero cloud latency.
+- 📜 **Skill Tree:** Swift 6, SwiftUI, UIKit, Clean MVVM, Combine Streams, Core Data, CoreLocation Geofencing, Apple HealthKit.
+- 🏆 **Achievement Unlocked:** 5+ applications deployed live to the Apple App Store with automated CI/CD and 4 QA verification gates.
 
     </td>
     <td width="42%" align="center" valign="middle">
@@ -74,16 +155,16 @@ final class PlayerOne: iOSLegend {
 <!-- Glowing Neon Laser Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
 
-### ⚔️ Weapon Arsenal & Skill Inventory
+### ⚔️ Technical Arsenal & Core Competencies
 
 <div align="center">
 
-| Gear Tier | Weapon Class | Equipped Items |
+| Tier | Domain | Core Technologies & Frameworks |
 | :---: | :--- | :--- |
-| **S+** | **🗡️ Primary Blades (Languages)** | <img src="https://skillicons.dev/icons?i=swift,dart,py,bash" alt="Languages" /> |
-| **S** | **🛡️ Armor & Engines (Mobile Ecosystem)** | <img src="https://skillicons.dev/icons?i=apple,flutter,sqlite,postman" alt="Mobile Ecosystem" /> |
-| **A** | **🧪 Potions & Spells (Cloud & Backend)** | <img src="https://skillicons.dev/icons?i=firebase,gcp,docker,linux" alt="Cloud & Backend" /> |
-| **A** | **🎒 Adventurer's Kit (Dev Tools & Design)** | <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" alt="Dev Tools & Design" /> |
+| **S+** | ** Native Apple Platforms** | <img src="https://skillicons.dev/icons?i=swift,apple" alt="Apple & Swift" /> `Swift 6`, `SwiftUI`, `UIKit`, `Combine`, `visionOS`, `watchOS` |
+| **S** | **🧠 On-Device AI & MedTech** | `Core ML`, `Vision Framework`, `Apple Neural Engine (ANE)`, `Apple HealthKit`, `PDFKit` |
+| **S** | **🛡️ Automated QA & CI/CD** | `Selenium (Web)`, `Appium (Mobile)`, `XCTest`, `Fastlane`, `TestFlight`, `Xcode Instruments` |
+| **A** | **☁️ Cloud, APIs & Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,bash" alt="Dev Tools" /> |
 
 </div>
 
@@ -92,33 +173,7 @@ final class PlayerOne: iOSLegend {
 <!-- Glowing Neon Laser Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
 
-### 🏰 Boss Dungeons & Active Raids (Featured Projects)
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/vishal-rao28/Core-Care-iOS" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal-rao28&repo=Core-Care-iOS&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="Core-Care-iOS Raid" />
-      </a>
-      <br/>
-      <sub><b>⚔️ Raid: Core-Care-iOS</b> — Healthcare mobile intelligence engineered with Swift & modular architecture.</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/vishal-rao28/BreathTracker.Swift" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishal-rao28&repo=BreathTracker.Swift&theme=tokyonight&show_owner=false&border_radius=10" height="135" alt="BreathTracker.Swift Quest" />
-      </a>
-      <br/>
-      <sub><b>🧘 Quest: BreathTracker.Swift</b> — Real-time respiratory analytics & mindfulness tracker with fluid SwiftUI UI.</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Glowing Neon Laser Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4" alt="Laser Divider" />
-
-### 📊 Battle Radar & Player XP
+### 📊 Battle Radar & Live Player XP
 
 <div align="center">
   <table border="0">
@@ -166,8 +221,8 @@ final class PlayerOne: iOSLegend {
 <br/>
 
 <div align="center">
-  <p>💾 <b>CHECKPOINT REACHED • SAVE GAME COMPLETE</b></p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishal-rao28.vishal-rao28&left_color=1f2937&right_color=38bdf8" alt="Party Member Count" />
+  <p>💾 <b>CHECKPOINT REACHED • 2026 ARCHITECT DOSSIER ONLINE</b></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishal-rao28.vishal-rao28&left_color=1f2937&right_color=38bdf8" alt="Visitor Count" />
   <br /><br />
-  <sub>🎮 Drop a <b>[⭐ Star]</b> on my repos to give EXP, or <b>[Follow]</b> to join the guild! Built with <b>Swift & Passion</b> by <b>Vishal Rao</b> 🎮</sub>
+  <sub> Crafted with <b>Swift, Apple Neural Engine &amp; Passion</b> by <b>Vishal Rao M</b> · Verified on Apple App Store </sub>
 </div>
