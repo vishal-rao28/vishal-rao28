@@ -7,3 +7,4 @@
 
 ## 2026-11-18
 - Enabled GitHub Profile Achievements for left sidebar badge showcase.
+- Registered GitHub Developer Program highlight badge and created public iOS Labs organization.
